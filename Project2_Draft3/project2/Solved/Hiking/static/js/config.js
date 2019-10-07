@@ -1,0 +1,3 @@
+const API_KEY = "pk.eyJ1IjoiZWRlbGZhcmFoIiwiYSI6ImNrMHJkNWdycjAzNDMzbWw2N3lpdWtrOXoifQ.QPAoYmdrEbyeyEcfC95czg";
+
+const TRAIL_KEY = "200602882-1a04285570695d2a3aa37930de4397c7";
